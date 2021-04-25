@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TCassas
+- 👀 I’m interested in Frontend & Backend (JS)
+- 🌱 I’m currently learning React/Express/Mongo/etc.
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me: tomascassas@gmail.com
